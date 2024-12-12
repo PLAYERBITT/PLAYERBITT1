@@ -18,7 +18,7 @@ keep_alive()
 
 # insert your Telegram bot tokSasen here
 
-bot = telebot.TeleBot('7238502739:AAHy5YDUshfC-Ra-v5Cswjoi3wcfB_OjLTg')
+bot = telebot.TeleBot('7235646357:AAEFqhtbZhYIxxKywRoqI85IZZwY42M70k8')
 
 
 
