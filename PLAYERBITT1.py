@@ -24,7 +24,7 @@ bot = telebot.TeleBot('7235646357:AAEFqhtbZhYIxxKywRoqI85IZZwY42M70k8')
 
 # Admin user IDs
 
-admin_id = ["5599402910"]
+admin_id = ["5092914180"]
 
 
 
