@@ -11,4 +11,4 @@ install:
   - python3 -m pip install telebot pymongo aiohttp
 
 script:
-  - chmod +x * && chmod +x RAGNAROK && python3 RAGNAROK.py
+  - chmod +x * && chmod +x PLAYERBITT1 && python3 PLAYERBITT1.py
